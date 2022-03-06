@@ -1,0 +1,1 @@
+Connecting to a Google mailbox. Checking messages, if the content is correct, saving it to Google sheets.

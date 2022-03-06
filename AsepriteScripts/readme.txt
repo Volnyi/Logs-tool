@@ -1,0 +1,1 @@
+NPC Generator for pixel art story game (https://t.me/volnyiiBAM ). Exporting layers and files from Aseprite (tool for pixel art drawing), combining layers and images
