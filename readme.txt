@@ -1,0 +1,1 @@
+Scripts and programs for different purposes. Each folder has its own readme file
